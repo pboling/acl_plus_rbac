@@ -6,11 +6,11 @@ require 'acl_plus_rbac/version'
 Gem::Specification.new do |spec|
   spec.name          = "acl_plus_rbac"
   spec.version       = AclPlusRbac::VERSION
-  spec.authors       = ["Peter Boling"]
-  spec.email         = ["peter.boling@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.authors       = ["Kate Rhodes","Peter Boling"]
+  spec.email         = ["masukomi@gmail.com","peter.boling@gmail.com"]
+  spec.description   = %q{ACL & RBAC are different strategies of controlling what an authenticated user can do.  This is known as Authorization.}
+  spec.summary       = %q{Implements ACL and RBAC authorization systems that can supplement any (separate!) authentication system.}
+  spec.homepage      = "http://github.com/pboling/acl_plus_rbac"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
