@@ -7,7 +7,7 @@ class PermissionTest < Test::Unit::TestCase
   #  assert_equal 1, permissions(:golden_key).roles.length
   #  assert_equal roles(:weakuser).name, permissions(:golden_key).roles[0].name
   #end
-  
+
   #def test_should_add_and_remove_unique_role
   #  assert_equal 3, Permission.find(:all).length
   #  assert_kind_of Permission, Permission.add(:test, :moo)
