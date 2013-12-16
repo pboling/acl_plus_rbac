@@ -60,3 +60,7 @@ The best way to use a system like this is to create ACL records for container ob
 
 
 Further Details are available in the docs/index.html file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pboling/acl_plus_rbac/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
